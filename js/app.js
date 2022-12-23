@@ -68,15 +68,15 @@ while(i_2 <= 13){
 
 //Пример 7 
 for (let i_3 = 0; i_3 <=16; i_3++) {
-    if(i_3 %2 == 0) {
+    if(i_3 % 2 == 0) {
         console.log(i_3);
     }
 }
 //Пример 7 
 let result = 0;
 let arr_2 = [2,5,8,3,6]
-for(let i = 0; i < arr_2.length; i++){
-    result = result + arr_2[i];
+for(let i_4 = 0; i_4 < arr_2.length; i_4++){
+    result = result + arr_2[i_4];
 }
 console.log(result)
 
